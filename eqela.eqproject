@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# HicbanSample3
+#
+
+projectname: HicbanSample3
+vendorid: com.hicban
+mainmodule: com.hicban.hicbansample3
